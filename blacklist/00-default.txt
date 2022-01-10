@@ -1,1 +1,1 @@
-^googleadservices.$
+googleadservices.com
