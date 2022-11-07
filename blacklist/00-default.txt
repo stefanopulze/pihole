@@ -2,4 +2,4 @@ googleadservices.com
 adclick.g.doubleclick.net
 (\.|^)quantserve\.com$
 s.click.aliexpress.com
-(\.|^)criteo\.net$
+eu.criteo.net
